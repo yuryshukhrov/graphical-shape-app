@@ -6,7 +6,7 @@ You can add new figures to existing ones, you can move figures, you can concaten
 
 Graphical Shape Application allows you to save objects in XML format including their properties such as color, coordinates, size and shape. Later these objects can be recreated from this XML file. Storing objects in XML format is handy when it comes to dealing with web services and remote object manipulation.
 
-![](https://raw.githubusercontent.com/yuryshukhrov/mysql-db-gui-app/master/src/images/mysql_db_gui_app.png)
+![](https://raw.githubusercontent.com/yuryshukhrov/graphical-shape-app/master/app-demo.png)
 
 The description of all features is available in the documentation.
 
@@ -19,3 +19,4 @@ The description of all features is available in the documentation.
 
 Copyright © 2019, [Yury Shukhrov](https://github.com/yuryshukhrov).
 Released under the [MIT License](LICENSE).
+

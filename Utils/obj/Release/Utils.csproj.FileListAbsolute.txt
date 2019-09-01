@@ -1,0 +1,13 @@
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\bin\Release\Utils.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\bin\Release\Utils.pdb
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\obj\Release\Utils.Properties.Resources.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\obj\Release\Utils.csproj.GenerateResource.Cache
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\obj\Release\Utils.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\obj\Release\Utils.pdb
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\bin\Release\Utils.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\bin\Release\Utils.pdb
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\obj\Release\Utils.Properties.Resources.resources
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\obj\Release\Utils.csproj.GenerateResource.cache
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\obj\Release\Utils.csproj.CoreCompileInputs.cache
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\obj\Release\Utils.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Utils\obj\Release\Utils.pdb

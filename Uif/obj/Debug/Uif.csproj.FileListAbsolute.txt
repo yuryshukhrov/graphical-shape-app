@@ -1,0 +1,121 @@
+C:\Users\yurish\CSharp 1005165\Uif\bin\Debug\Uif.exe.config
+C:\Users\yurish\CSharp 1005165\Uif\bin\Debug\Uif.exe
+C:\Users\yurish\CSharp 1005165\Uif\bin\Debug\Uif.pdb
+C:\Users\yurish\CSharp 1005165\Uif\bin\Debug\en-US\Uif.resources.dll
+C:\Users\yurish\CSharp 1005165\Uif\bin\Debug\fi-FI\Uif.resources.dll
+C:\Users\yurish\CSharp 1005165\Uif\bin\Debug\ru-RU\Uif.resources.dll
+C:\Users\yurish\CSharp 1005165\Uif\bin\Debug\Utils.dll
+C:\Users\yurish\CSharp 1005165\Uif\bin\Debug\Utils.pdb
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.csprojResolveAssemblyReference.cache
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.resources
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.Layout.resources
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.Navigator.resources
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.Properties.Resources.resources
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.StartForm.resources
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.en-US.resources
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.fi-FI.resources
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.ru-RU.resources
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.csproj.GenerateResource.Cache
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\en-US\Uif.resources.dll
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\fi-FI\Uif.resources.dll
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\ru-RU\Uif.resources.dll
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.exe
+C:\Users\yurish\CSharp 1005165\Uif\obj\Debug\Uif.pdb
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\bin\Debug\Uif.exe.config
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\bin\Debug\Uif.exe
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\bin\Debug\Uif.pdb
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\bin\Debug\en-US\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\bin\Debug\fi-FI\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\bin\Debug\ru-RU\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\bin\Debug\Utils.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\bin\Debug\Utils.pdb
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.csprojResolveAssemblyReference.cache
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.AboutBox.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.Layout.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.Navigator.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.Properties.Resources.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.StartForm.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.AboutBox.en-US.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.AboutBox.fi-FI.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.AboutBox.ru-RU.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.csproj.GenerateResource.Cache
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\en-US\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\fi-FI\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\ru-RU\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.exe
+C:\Programming\C# Labs and Projects\CSharp 1005165_\Uif\obj\Debug\Uif.pdb
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\bin\Debug\Uif.exe.config
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\bin\Debug\Uif.exe
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\bin\Debug\Uif.pdb
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\bin\Debug\en-US\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\bin\Debug\fi-FI\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\bin\Debug\ru-RU\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\bin\Debug\Utils.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\bin\Debug\Utils.pdb
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.csprojResolveAssemblyReference.cache
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.Layout.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.Navigator.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.Properties.Resources.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.StartForm.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.en-US.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.fi-FI.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.ru-RU.resources
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.csproj.GenerateResource.Cache
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\en-US\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\fi-FI\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\ru-RU\Uif.resources.dll
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.exe
+C:\Programming\C# Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.pdb
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Graphical Shape Application.exe.config
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Graphical Shape Application.exe
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Graphical Shape Application.pdb
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\en-US\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\fi-FI\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\ru-RU\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\MyControls.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Utils.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\MyControls.pdb
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Utils.pdb
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.csprojResolveAssemblyReference.cache
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.Layout.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.Navigator.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.Properties.Resources.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.StartForm.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.en-US.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.fi-FI.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.ru-RU.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.csproj.GenerateResource.Cache
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\en-US\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\fi-FI\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\ru-RU\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Graphical Shape Application.exe
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Graphical Shape Application.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Graphical Shape Application.exe.config
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Graphical Shape Application.exe
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Graphical Shape Application.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\en-US\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\fi-FI\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\ru-RU\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\MyControls.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Utils.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\MyControls.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Debug\Utils.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.csprojAssemblyReference.cache
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.Layout.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.Navigator.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.Properties.Resources.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.StartForm.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.en-US.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.fi-FI.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.AboutBox.ru-RU.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.csproj.GenerateResource.cache
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\en-US\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\fi-FI\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\ru-RU\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Uif.csproj.CopyComplete
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Graphical Shape Application.exe
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Debug\Graphical Shape Application.pdb

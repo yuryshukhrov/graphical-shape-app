@@ -1,0 +1,9 @@
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\MyControls\bin\Debug\MyControls.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\MyControls\bin\Debug\MyControls.pdb
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\MyControls\obj\Debug\MyControls.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\MyControls\obj\Debug\MyControls.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\MyControls\bin\Debug\MyControls.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\MyControls\bin\Debug\MyControls.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\MyControls\obj\Debug\MyControls.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\MyControls\obj\Debug\MyControls.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\MyControls\obj\Debug\MyControls.pdb

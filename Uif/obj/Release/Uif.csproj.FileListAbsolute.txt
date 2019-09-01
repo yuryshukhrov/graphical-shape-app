@@ -1,0 +1,79 @@
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Graphical Shape Application.exe.config
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Graphical Shape Application.exe
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Graphical Shape Application.pdb
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\en-US\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\fi-FI\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\ru-RU\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\MyControls.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Utils.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\MyControls.pdb
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Utils.pdb
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csprojResolveAssemblyReference.cache
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.Layout.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.Navigator.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.Properties.Resources.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.StartForm.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.en-US.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.fi-FI.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.ru-RU.resources
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csproj.GenerateResource.Cache
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\en-US\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\fi-FI\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\ru-RU\Graphical Shape Application.resources.dll
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Graphical Shape Application.exe
+C:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Graphical Shape Application.pdb
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Graphical Shape Application.exe.config
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Graphical Shape Application.exe
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Graphical Shape Application.pdb
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\en-US\Graphical Shape Application.resources.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\fi-FI\Graphical Shape Application.resources.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\ru-RU\Graphical Shape Application.resources.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\MyControls.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Utils.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\MyControls.pdb
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Utils.pdb
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csprojAssemblyReference.cache
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.resources
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.Layout.resources
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.Navigator.resources
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.Properties.Resources.resources
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.StartForm.resources
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.en-US.resources
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.fi-FI.resources
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.ru-RU.resources
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csproj.GenerateResource.cache
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csproj.CoreCompileInputs.cache
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\en-US\Graphical Shape Application.resources.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\fi-FI\Graphical Shape Application.resources.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\ru-RU\Graphical Shape Application.resources.dll
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csproj.CopyComplete
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Graphical Shape Application.exe
+G:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Graphical Shape Application.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Graphical Shape Application.exe.config
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Graphical Shape Application.exe
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Graphical Shape Application.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\en-US\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\fi-FI\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\ru-RU\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\MyControls.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Utils.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\MyControls.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\bin\Release\Utils.pdb
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csprojAssemblyReference.cache
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.Layout.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.Navigator.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.Properties.Resources.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.StartForm.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.en-US.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.fi-FI.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.AboutBox.ru-RU.resources
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csproj.GenerateResource.cache
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\en-US\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\fi-FI\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\ru-RU\Graphical Shape Application.resources.dll
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Uif.csproj.CopyComplete
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Graphical Shape Application.exe
+D:\Programming\CSharp Labs and Projects\CSharp 1005165\Uif\obj\Release\Graphical Shape Application.pdb
